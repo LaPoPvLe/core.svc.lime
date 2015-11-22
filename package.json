@@ -1,0 +1,8 @@
+{
+  "name": "core-svc-lime",
+  "version": "0.0.1",
+  "dependencies": {
+    "koa": "^2.0.0-alpha.3"
+  },
+  "license": "MIT"
+}
